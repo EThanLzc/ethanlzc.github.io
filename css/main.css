@@ -1090,7 +1090,7 @@ pre .javascript .function {
   bottom: 30px;
 }
 .header {
-  background: url("L:/blog/source/uploads/20180109225230.png");
+  background: transparent;
 }
 .header-inner {
   position: relative;
@@ -1823,7 +1823,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff006a;
+  background: #ff34ff;
 }
 .links-of-blogroll {
   font-size: 13px;
